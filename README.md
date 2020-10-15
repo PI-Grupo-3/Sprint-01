@@ -4,10 +4,10 @@ Devido a termos apenas um integrante do grupo com conhecimento prévio em React.
 Enquanto um integrante dedicou-se a programar o site, os demais dividiram-sem entre estudar a linguagem para colaborarem com a programação nas próximas sprints, e desenvolver conteúdos de três disciplinas
 
 **Check list da entrega**
-[ ] Conteúdo da disciplina de inglês
-[ ] Conteúdo da disciplina de matemática
-[ ] Conteúdo da disciplina de português
-[ ] Dashboard
+- [x] Conteúdo da disciplina de inglês
+- [x] Conteúdo da disciplina de matemática
+- [x] Conteúdo da disciplina de português
+- [ ] Dashboard
 
 
 ## Objetivos atingidos
