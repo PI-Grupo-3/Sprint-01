@@ -12,7 +12,7 @@ Enquanto este integrante dedicou-se a desenvolver o frontend, os demais dividira
 
 
 
-## Apresentação dos objetivos
+## Objetivos Concluídos
 
 [Conteúdo da disciplina de Inglês](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Ingl%C3%AAs)
 
