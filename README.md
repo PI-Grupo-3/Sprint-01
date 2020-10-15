@@ -14,11 +14,11 @@ Enquanto este integrante dedicou-se a desenvolver o frontend, os demais dividira
 
 ## Apresentação dos objetivos
 
-[Conteúdo da disciplina de Inglês]
+[Conteúdo da disciplina de Inglês](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Ingl%C3%AAs)
 
-[Conteúdo da disciplina de Matemática]
+[Conteúdo da disciplina de Matemática](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Matem%C3%A1tica)
 
-[Conteúdo da disciplina de Português]
+[Conteúdo da disciplina de Português](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Portugu%C3%AAs)
 
 [Link para acessar o ......]
 
