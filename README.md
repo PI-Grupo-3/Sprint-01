@@ -31,6 +31,6 @@ Além do previamente planejado, conseguimos desenvolver também:
 
 [Acesso a dashboard](https://determined-bell-89ba3c.netlify.app/)
 
-[Acesso ao login do administrador](https://determined-bell-89ba3c.netlify.app/login#)
+
 
 
