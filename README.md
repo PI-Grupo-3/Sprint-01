@@ -17,6 +17,7 @@ Além do previamente planejado, conseguimos desenvolver também:
 - [x] Front-end da dashboard (indicadores do site: números de vendas, usuários)
 - [x] Front-end dos perfis de administradores
 - [x] Configuração do sistema de rotas do usuário
+- [x] Front-end do login de administrador
 
 
 
@@ -29,5 +30,7 @@ Além do previamente planejado, conseguimos desenvolver também:
 [Conteúdo da disciplina de Português](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Portugu%C3%AAs)
 
 [Acesso a dashboard](https://determined-bell-89ba3c.netlify.app/)
+
+[Acesso ao login do administrador](https://determined-bell-89ba3c.netlify.app/login#)
 
 
