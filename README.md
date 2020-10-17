@@ -29,7 +29,7 @@ Além do previamente planejado, conseguimos desenvolver também:
 
 [Conteúdo da disciplina de Português](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Portugu%C3%AAs)
 
-[Acesso a dashboard](https://determined-bell-89ba3c.netlify.app/)
+[Acesso a dashboard](https://painel-escholar.netlify.app/)
 
 
 
